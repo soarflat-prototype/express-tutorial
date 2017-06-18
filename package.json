@@ -2,7 +2,8 @@
   "name": "express-tutorial",
   "version": "1.0.0",
   "main": "app.js",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "express": "^4.15.3"
   }
 }
